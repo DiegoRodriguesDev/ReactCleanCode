@@ -8,7 +8,7 @@
       ],
       "esModuleInterop": true,
       "module": "esnext",
-      "moduleResolution": "node",
+      "moduleResolution": "node",   
       "jsx": "react",
       "rootDir": "src",
       "baseUrl": "src",
@@ -22,6 +22,6 @@
       "noEmit": true
     },
     "include": [
-      "src"
+        "src"
     ]
-  }
+}
