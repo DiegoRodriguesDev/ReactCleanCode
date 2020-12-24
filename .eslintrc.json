@@ -10,6 +10,9 @@
         "@typescript-eslint/comma-spacing": "off",
         "@typescript-eslint/return-await": "off",
         "@typescript-eslint/no-namespace": "off",
-        "no-redeclare": "off"
+        "no-redeclare": "off",
+        "@typescript-eslint/indent": "off",
+        "@typescript-eslint/space-before-function-paren": "off",
+        "@typescript-eslint/method-signature-style": "off"
     }
 }
